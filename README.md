@@ -1,6 +1,6 @@
 # What is this
 
-ST7735 TFT ディスプレイに、microSD の画像を Arduino で表示するためのコード。
+Source code to display microSD image on ST7735 TFT display with Arduino.
 
 # References
 
